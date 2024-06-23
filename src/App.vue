@@ -4,6 +4,8 @@
     <!-- <element-view></element-view> -->
     <!-- <emp-view></emp-view> -->
     <router-view></router-view>
+
+    <!-- 测试 -->
   </div>
 </template>
 
